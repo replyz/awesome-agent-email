@@ -25,7 +25,7 @@ Services that give each agent an email address of its own.
 - [AgentMail](https://www.agentmail.to) - API-first inboxes for AI agents, with an MCP server, a CLI, SDKs and agent self-signup.
 - [Dead Simple Email](https://deadsimple.email) - Inboxes with IMAP/SMTP credentials, an API, SDKs, a CLI and an MCP server; parses verification codes.
 - [Nylas agent accounts](https://www.nylas.com) - An email inbox and calendar for an agent, hosted by Nylas, with US or EU hosting.
-- [Replyz](https://replyz.io) - EU-hosted inboxes for personal agents (OpenClaw, Hermes, Claude Code) with wait-for-email and code extraction; in private early access.
+- [Replyz](https://replyz.io) - EU-hosted inboxes for personal agents (OpenClaw, Hermes, Claude Code) with wait-for-email and code extraction (91.7 % on a 48-mail [blind test](https://docs.replyz.io/concepts/extraction-accuracy), measured 18 Nov 2026), plus `reply_to_email`: claimed accounts on the 21 Nov 2026 terms or later can reply, only to someone who emailed that inbox, in the same thread. No cold sending; in private early access.
 - [Resend Inboxes](https://resend.com) - Inboxes inside the Resend email API; received mail counts toward the sending quota.
 
 ## MCP servers for agent inboxes
